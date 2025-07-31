@@ -290,4 +290,8 @@ Con base en el análisis de componentes principales (PCA), no se observa una rel
 
 Es importante considerar que los valores de los contaminantes (PM2.5, CO, SO₂ y NOₓ) representan un promedio de todas las fuentes registradas, incluyendo fuentes fijas, móviles, de área y naturales. Por lo tanto, la contaminación del aire en cada municipio puede estar más influenciada por estas fuentes urbanas e industriales que por los incendios forestales.
 
-Municipios como Puebla y San Pedro Cholula presentaron los niveles más altos de contaminantes, lo que sugiere una mayor carga de fuentes contaminantes distintas a los incendios. Por otro lado, Zacatlán y Amozoc mostraron una mayor superficie incendiada, pero sin una contaminación atmosférica destacada, lo cual refuerza la idea de que los incendios no son el principal factor de deterioro de la calidad del aire en estos casos
+Municipios como Puebla y San Pedro Cholula presentaron los niveles más altos de contaminantes, lo que sugiere una mayor carga de fuentes contaminantes distintas a los incendios. Por otro lado, Zacatlán y Amozoc mostraron una mayor superficie incendiada, pero sin una contaminación atmosférica destacada, lo cual refuerza la idea de que los incendios no son el principal factor de deterioro de la calidad del aire en estos casos.
+
+#URL REPOSITORIO: 
+
+https://github.com/Isela-P/Proyecto-Final-CD
