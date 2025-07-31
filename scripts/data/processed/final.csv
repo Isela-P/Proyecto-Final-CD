@@ -1,0 +1,31 @@
+"municipio","total_hectareas","entidad","tipo_de_fuente","pm_25","co","so2","nox"
+"Acajete",2.2925,"Puebla","Fuentes fijas",9.284,38.683,2424.366,282.029
+"Acajete",2.2925,"Puebla","Fuentes de área",106.562,750.302,2.781,31.949
+"Acajete",2.2925,"Puebla","Fuentes móviles carreteros",49.722,1984.24,14.924,567.05
+"Acajete",2.2925,"Puebla","Fuentes móviles que no circulan por carretera",2.281,10.698,1.032,85.311
+"Amozoc",1.5,"Puebla","Fuentes fijas",22.718,3.048,46.621,18.613
+"Amozoc",1.5,"Puebla","Fuentes de área",74.841,479.177,1.802,38.354
+"Amozoc",1.5,"Puebla","Fuentes móviles carreteros",55.681,2257.302,17.342,652.943
+"Amozoc",1.5,"Puebla","Fuentes móviles que no circulan por carretera",1.425,6.546,0.619,57.058
+"Atlixco",2.908,"Puebla","Fuentes fijas",0.375,2.099,0,12.37
+"Atlixco",2.908,"Puebla","Fuentes de área",207.547,1601.323,5.797,71.936
+"Atlixco",2.908,"Puebla","Fuentes móviles carreteros",74.299,6970.126,37.634,1353.779
+"Atlixco",2.908,"Puebla","Fuentes móviles que no circulan por carretera",2.753,12.917,1.247,102.785
+"Libres",17.3357142857143,"Puebla","Fuentes de área",104.061,789.996,4.647,29.704
+"Libres",17.3357142857143,"Puebla","Fuentes móviles carreteros",13.743,957.628,5.629,214.177
+"Libres",17.3357142857143,"Puebla","Fuentes móviles que no circulan por carretera",2.836,13.354,1.293,104.56
+"Puebla",9.96875,"Puebla","Fuentes fijas",100.768,256.236,534.28,1096.183
+"Puebla",9.96875,"Puebla","Fuentes de área",481.563,3328.264,14.701,543.618
+"Puebla",9.96875,"Puebla","Fuentes móviles carreteros",1214.205,84020.756,518.146,18920.906
+"Puebla",9.96875,"Puebla","Fuentes móviles que no circulan por carretera",3.276,281.039,7.791,144.984
+"San Pedro Cholula",5.75,"Puebla","Fuentes fijas",1.357,1.611,34.663,7.444
+"San Pedro Cholula",5.75,"Puebla","Fuentes de área",3108.557,7499.085,27.551,263.471
+"San Pedro Cholula",5.75,"Puebla","Fuentes móviles carreteros",120.35,6429.358,43.174,1594.973
+"San Pedro Cholula",5.75,"Puebla","Fuentes móviles que no circulan por carretera",1.647,7.451,0.694,69.207
+"Zacatlán",11.1763636363636,"Puebla","Fuentes de área",261.851,2073.923,8.652,70.997
+"Zacatlán",11.1763636363636,"Puebla","Fuentes móviles carreteros",60.509,1977.603,16.491,598.908
+"Zacatlán",11.1763636363636,"Puebla","Fuentes móviles que no circulan por carretera",9.639,57.881,4.3,122.55
+"Huejotzingo",NA,"Puebla","Fuentes fijas",38.182,477.981,175.461,3184.815
+"Huejotzingo",NA,"Puebla","Fuentes de área",85.408,522.288,1.991,38.716
+"Huejotzingo",NA,"Puebla","Fuentes móviles carreteros",56.563,2440.12,18.233,692.192
+"Huejotzingo",NA,"Puebla","Fuentes móviles que no circulan por carretera",1.278,6.127,0.603,44.14
